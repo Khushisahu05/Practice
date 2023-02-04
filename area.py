@@ -8,16 +8,6 @@ def shape():
     shape_input = int(input("Please enter the desired shape:- "))
     area(shape_input)
     
-    
-    # if shape_input == 1:
-    #     circle()
-    # if shape_input == 2:
-    #     triangle()
-    # if shape_input == 3:
-    #     square()
-    # if shape_input == 4:
-    #     rectangle()
-
 
 def area(a):   
     if a == 1:
